@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/cheng106/cheng-toturial/master/profile-summary-card-output/solarized/4-productive-time.svg)
+```
+
+    
